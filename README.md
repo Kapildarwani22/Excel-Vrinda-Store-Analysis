@@ -1,4 +1,4 @@
-# Excel_Vrinda_Store_Analysis
+# Excel Vrinda Store Analysis
 ![Vrinda Store Annual Report 2022](https://github.com/Kapildarwani22/Excel_Vrinda_Store_Analysis/assets/116799321/7779876b-f160-49b2-b054-54bd1a0e6d17)
 
 ## Sample Insights
